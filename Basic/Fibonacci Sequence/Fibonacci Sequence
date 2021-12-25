@@ -1,0 +1,1 @@
+nterms = int(input("How many terms? "))
